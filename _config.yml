@@ -1,2 +1,3 @@
 name: Jeff Pash, Horrible Cop
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
