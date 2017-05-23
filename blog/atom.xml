@@ -5,8 +5,8 @@ layout: feed
 <feed xmlns="http://www.w3.org/2005/Atom">
 
 	<title>Jeff Pash's Blog</title>
-	<link href="http://jeffpash.github.io/blog/atom.xml" rel="self"/>
-	<link href="http://jeffpash.github.io/blog"/>
+	<link href="http://jeffpash.github.io/jekyll-exo/blog/atom.xml" rel="self"/>
+	<link href="http://jeffpash.github.io/jekyll-exo/blog"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
 	<id>http://jeffpash.github.io/jekyll-exo/blog</id>
 	<author>
